@@ -49,3 +49,4 @@ Instruments, online-tools, web-services for Threat Hunter / Cyber Security Speci
 46. <a href="https://car.mitre.org/">MITRE Analystics Repo</a>
 47. <a href="https://labs.socradar.com/dos_resilience/">SOC Radars</a>
 48. <a href="https://malwaretips.com/">MalwareTips Internet Forum</a>
+49. <a href="https://wpscan.com/plugins">WPScan - WordPress Vulnerabilities</a>
