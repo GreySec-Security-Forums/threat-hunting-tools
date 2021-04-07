@@ -52,3 +52,4 @@ Instruments, online-tools, web-services for Threat Hunter / Cyber Security Speci
 49. <a href="https://wpscan.com/plugins">WPScan - WordPress Vulnerabilities</a>
 50. <a href="https://chrome.google.com/webstore/detail/recorded-future/cdblaggcibgbankgilackljdpdhhcine?hl=en">Recorded Future</a>
 51. <a href="https://snyk.io/vuln">SNYK Monitor Vulnerabilities</a>
+52. <a href="https://detectify.com/">Detectify</a>
