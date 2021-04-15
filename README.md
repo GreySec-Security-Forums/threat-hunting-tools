@@ -54,3 +54,4 @@
 51. <a href="https://snyk.io/vuln">SNYK Monitor Vulnerabilities</a>
 52. <a href="https://detectify.com/">Detectify</a>
 53. <a href="https://urlhaus.abuse.ch/browse/">URLhaus Malware Urls Database</a>
+54. <a href="https://attackerkb.com/">AttackerKB</a>
