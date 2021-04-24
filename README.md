@@ -1,6 +1,6 @@
 <h2>Threat Hunting Tools</h2>
 
-⚡ Instruments, online-tools, web-services for Threat Hunter / Cyber Security Specialist ☝️
+⚡ Instruments, online-tools, web-services for Threat Intelligence / Hunter / Cyber Security Specialist ☝️
 
 1. <a href="https://exchange.xforce.ibmcloud.com/">IBM X-Force Excahnge</a>
 2. <a href="https://www.microsoft.com/en-us/wdsi/threats">Microsoft Global Threat Activity</a>
